@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Node Js**
+- 🔭 I’m currently working on **Next Js**
 
 
 - 💬 Ask me about ** HTML, CSS, Javascript, React**
